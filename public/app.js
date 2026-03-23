@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/users";
+const API =  "/users";
 
 // REGISTER
 async function register() {
